@@ -1,7 +1,7 @@
 ---
 layout: post
 title: First DD-DeCaF screencast
-published: false
+published: true
 ---
 
 # Interactive metabolic pathways on DD-DeCaF!
