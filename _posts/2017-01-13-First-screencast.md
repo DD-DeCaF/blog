@@ -18,7 +18,7 @@ small screencast to present the latest feature additions, check it
 out!
 
 
-<iframe width="480" height="360" src="https://youtu.be/i96AUKD-ATY" frameborder="0"> </iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/i96AUKD-ATY" frameborder="0" allowfullscreen></iframe>
 
 Try out the [DD-DeCaF platform](http://app.dd-decaf.eu) and send us
 feedback via [twitter](https://twitter.com/dddecaf)! More information on the [main project page](http://dd-decaf.eu/)
