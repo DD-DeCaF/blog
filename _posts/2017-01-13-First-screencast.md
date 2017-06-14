@@ -14,11 +14,9 @@ is a [proven](http://www.genomatica.com/products/genobdoprocess/)
 Sadly, doing modeling in practice
 can be quite tricky, largely due to the lack of flexible and
 easy-to-use software solutions.
-
 To fix this, we have started to build
 the DD-DeCaF platform which aims to bring both basic and advanced
 metabolic flux modeling tools to everyone's fingertips.
-
 We just made a
 small screencast to present the latest feature additions, check it
 out!
@@ -31,7 +29,6 @@ out!
 
 Try out the [DD-DeCaF platform](http://app.dd-decaf.eu) and send us
 feedback via [twitter](https://twitter.com/dddecaf)!
-
- More information on the [main project page](http://dd-decaf.eu/)
+More information on the [main project page](http://dd-decaf.eu/)
 
 
